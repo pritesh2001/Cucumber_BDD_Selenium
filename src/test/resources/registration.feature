@@ -48,3 +48,4 @@ Feature: Registration
       | hardik      | m          | hardik@gmail.com  | hardik123  | hardik123         |
       | Deep        | 1          | deep@gmail.com    | deep123    | deep123           |
       | Pritesh     | p          | pritesh@gmail.com | pritesh123 | pritesh123        |
+      | Paresh     | p          | pritesh123@gmail.com | pritesh1876 | pritesh1876        |
